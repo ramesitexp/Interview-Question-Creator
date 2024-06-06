@@ -25,3 +25,8 @@ git commit -m "readme updated"
 
 git push origin main
 ```
+
+3.install requirements
+```bash
+pip install -r requirements.txt
+```
